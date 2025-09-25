@@ -2,9 +2,8 @@
 
 > **The Data‑Driven Startups Success Playbook** — Insights into early funding, sector efficiency, longevity, and regional growth dynamics.
 
-[![View in Tableau Public](https://img.shields.io/badge/Tableau%20Dashboard-View%20Interactive%20Demo-blue)](https://public.tableau.com/views/YOUR_VIZ_NAME/Overview)
-[![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-informational)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![View in Tableau Public](https://img.shields.io/badge/Tableau%20Dashboard-View%20Interactive%20Demo-blue)](https://public.tableau.com/app/profile/annanahmed.shaikh3774/viz/UnvellingStartupSuccessPatternbyAnnanahmedShaikh/Story1)
+[![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-informational)](https://www.tableau.com/)
 
 ---
 
@@ -19,15 +18,15 @@
 ## 📸 Preview
 <p>
   <img src="assets/1.png" alt="Cover — Data‑Driven Startups Success Playbook" width="49%" />
-  <img src="assets/06_growth_timeline.png" alt="Funding & Success Timeline by Sector" width="49%" />
+  <img src="assets/6.png" alt="Funding & Success Timeline by Sector" width="49%" />
 </p>
 <p>
-  <img src="assets/07_industry_impact.png" alt="Industry Insights & Early vs Delayed Funding Impact" width="49%" />
-  <img src="assets/09_longevity_map.png" alt="Sector Efficiency vs Longevity + Regional Map" width="49%" />
+  <img src="assets/7.png" alt="Industry Insights & Early vs Delayed Funding Impact" width="49%" />
+  <img src="assets/9.png" alt="Sector Efficiency vs Longevity + Regional Map" width="49%" />
 </p>
 <p>
-  <img src="assets/11_ecosystem_strength.png" alt="Ecosystem Strength vs Success by Region" width="49%" />
-  <img src="assets/12_regional_comparison.png" alt="US & Canada Regional Comparison" width="49%" />
+  <img src="assets/11.png" alt="Ecosystem Strength vs Success by Region" width="49%" />
+  <img src="assets/12.png" alt="US & Canada Regional Comparison" width="49%" />
 </p>
 
 > Screenshots are in `/assets/`. Filenames above are suggestions—update if you use different names.
@@ -74,7 +73,7 @@ This project is structured as a **3‑Act narrative**:
 
 ---
 
-## ✅ Actionable Recommendations
+## Actionable Recommendations
 - **Sectors:** Prioritize **early funding** in Education & Healthcare for cost‑effective growth; maintain **delayed funding** strategies in Technology for resilience.
 - **Regions:** Invest in **underfunded high‑potential** areas like Atlantic Canada & the US Midwest; build **accelerators/support orgs** in emerging regions.
 - **Ecosystems:** Strengthen **funding networks** (>2 rounds) and encourage **collaboration** among startups, investors, & policy‑makers.
@@ -121,6 +120,3 @@ startup-success-tableau/
 - Portfolio: https://annanshaikh04.github.io
 
 ---
-
-## 📝 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
