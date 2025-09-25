@@ -18,7 +18,7 @@
 
 ## 📸 Preview
 <p>
-  <img src="assets/01_cover.png" alt="Cover — Data‑Driven Startups Success Playbook" width="49%" />
+  <img src="assets/1.png" alt="Cover — Data‑Driven Startups Success Playbook" width="49%" />
   <img src="assets/06_growth_timeline.png" alt="Funding & Success Timeline by Sector" width="49%" />
 </p>
 <p>
