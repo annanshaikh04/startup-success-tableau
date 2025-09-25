@@ -117,6 +117,6 @@ startup-success-tableau/
 **Annanahmed Furkanahmed Shaikh** — MS in Data Science, Wentworth Institute of Technology  
 - Email: shaikha4@wit.edu  
 - LinkedIn: https://www.linkedin.com/in/annanahmed-shaikh  
-- Portfolio: https://annanshaikh04.github.io
+- Portfolio: [https://annanshaikh04.github.io](https://github.com/annanshaikh04)
 
 ---
